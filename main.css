@@ -1,0 +1,23 @@
+#intro {
+    background-color: black;
+    border: 1px solid black;
+
+}
+
+body {background-color: darkgray}
+    
+img {margin: 20px}
+    {padding: 20px}
+
+.title {
+    font-family: Helvetica;
+    font-size: 4em;
+    line-height: 1.2em;
+}
+
+p  {
+    color: black;
+    font-family: Helvetica;
+    font-size: 120%;
+    margin-top: 30px
+    {padding: 20px}}
